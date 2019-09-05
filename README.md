@@ -1,4 +1,4 @@
 # unittest_python
 
-[![Actions Status](https://github.com/Jonaskoe/unittest_python/workflows/pythonpackage/badge.svg)](https://github.com/Jonaskoe/unittest_python/workflows/pythonpackage)
+[![Build Status](https://github.com/Jonaskoe/unittest_python/workflows/Python%20package/badge.svg)](https://github.com/Jonaskoe/unittest_python/workflows/Python%20package)
 
